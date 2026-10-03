@@ -1,5 +1,5 @@
 [
- {
+  {
     "id": "s1e1",
     "season": 1,
     "movieId": 1,
@@ -42,7 +42,6 @@
         "url": "https://yourserver.com/parasyte/subtitles/s1e1_en.vtt"
       }
     ]
-  }
   },
   {
     "id": "s1e2",
