@@ -238,7 +238,7 @@
     "season": 1,
     "movieId": 1,
     "episodeNumber": 7,
-    "title": "7.THE STRANGER",
+    "title": "7.Dark Night's Passing",
     "duration": "23m",
     "description": "Thinking he'd found his mother's killer, Shinichi instead meets Uda Mamoru, a man in a similar situation as himself. Uda sympathizes with Shinichi and suggests that they all work together. The time to avenge his mother has come at last! Shinichi heads to the precipice...",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4aYMLNDLjx0Y2Lnl7L5Mgg1iIYE.jpg",
@@ -266,6 +266,44 @@
         "languageCode": "en",
         "displayName": "english",
         "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E7-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+ {
+    "id": "s1e8",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 8,
+    "title": "8.Freezing Point",
+    "duration": "23m",
+    "description": "Shinichi struggles to live normally while hiding the existence of Migi.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E8.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 51000,
+      "endMs": 76000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1310000,
+        "endMs": 1360000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E8-1080P_Converted.mp3",
         "isOriginal": true
       }
     ],
