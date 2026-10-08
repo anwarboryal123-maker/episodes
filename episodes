@@ -308,5 +308,608 @@
       }
     ],
     "subtitleTracks": []
+  },
+```json
+  {
+    "id": "s1e9",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 9,
+    "title": "9.BEYOND GOOD AND EVIL",
+    "duration": "23m",
+    "description": "Yuko is drawn to Shimada Hideo, but gradually realizes that something is seriously amiss with Shimada's face itself. As Yuko pursues Shimada's secret, she connects the dots between him and her brother's police investigation.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4radWJoiPcvwLTd0gvqJ5nWmm5M.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E9.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 50000,
+      "endMs": 75000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1300000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E9-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e10",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 10,
+    "title": "10.WHAT MAD UNIVERSE",
+    "duration": "23m",
+    "description": "Shinichi encounters new enemies and begins to understand the strange world created by the parasites.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E10.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 52000,
+      "endMs": 78000,
+      "description": "Violence and horror scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1290000,
+        "endMs": 1340000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E10-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e11",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 11,
+    "title": "11.THE BLUEBIRD",
+    "duration": "23m",
+    "description": "Shinichi's transformation becomes more noticeable as he confronts another deadly threat.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E11.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 48000,
+      "endMs": 72000,
+      "description": "Violence and blood"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1310000,
+        "endMs": 1360000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E11-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e12",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 12,
+    "title": "12.HEART",
+    "duration": "23m",
+    "description": "Shinichi reflects on his humanity while Migi continues to challenge his understanding of emotions.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/c2ZRdFjZ218IoBwKuTUi8tDynoa.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E12.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 51000,
+      "endMs": 76000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1285000,
+        "endMs": 1335000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E12-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e13",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 13,
+    "title": "13.HELLO SADNESS",
+    "duration": "23m",
+    "description": "Shinichi faces the consequences of his battles while another parasite begins moving closer to him.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/meTyTu5BqCFa9ZxZpWWlAwu5rmh.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E13.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 53000,
+      "endMs": 78000,
+      "description": "Violence and blood"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1300000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E13-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e14",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 14,
+    "title": "14.THE GENOME",
+    "duration": "23m",
+    "description": "The conflict between humans and parasites grows more dangerous as Shinichi discovers new information.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E14.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 49000,
+      "endMs": 74000,
+      "description": "Violence and horror"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1295000,
+        "endMs": 1345000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E14-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e15",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 15,
+    "title": "15.SOMETHING WICKED THIS WAY COMES",
+    "duration": "23m",
+    "description": "A powerful parasite emerges and Shinichi must prepare for another dangerous confrontation.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4aYMLNDLjx0Y2Lnl7L5Mgg1iIYE.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E15.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 50000,
+      "endMs": 76000,
+      "description": "Graphic violence and gore"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1300000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E15-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e16",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 16,
+    "title": "16.HAPPY FAMILY",
+    "duration": "23m",
+    "description": "Shinichi becomes involved in a dangerous battle as the parasites' plans begin to unfold.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4radWJoiPcvwLTd0gvqJ5nWmm5M.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E16.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 52000,
+      "endMs": 78000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1310000,
+        "endMs": 1360000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E16-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e17",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 17,
+    "title": "17.DETECTIVE",
+    "duration": "23m",
+    "description": "Humans begin investigating the strange incidents while Shinichi tries to stay hidden.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E17.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 50000,
+      "endMs": 74000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1295000,
+        "endMs": 1345000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E17-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e18",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 18,
+    "title": "18.MORE THAN HUMAN",
+    "duration": "23m",
+    "description": "Shinichi discovers that his relationship with Migi has changed him in ways he never expected.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E18.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 51000,
+      "endMs": 77000,
+      "description": "Violence and horror"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1305000,
+        "endMs": 1355000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E18-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e19",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 19,
+    "title": "19.IN COLD BLOOD",
+    "duration": "23m",
+    "description": "The conflict reaches a critical point as Shinichi confronts an enemy stronger than ever.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/c2ZRdFjZ218IoBwKuTUi8tDynoa.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E19.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 49000,
+      "endMs": 76000,
+      "description": "Graphic violence and blood"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1285000,
+        "endMs": 1335000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E19-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e20",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 20,
+    "title": "20.CRIMSON AND BLOOD",
+    "duration": "23m",
+    "description": "Shinichi and Migi face a dangerous new challenge as the final conflict approaches.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/meTyTu5BqCFa9ZxZpWWlAwu5rmh.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E20.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 53000,
+      "endMs": 79000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1300000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E20-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e21",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 21,
+    "title": "21.SEX AND SPIRIT",
+    "duration": "23m",
+    "description": "The parasites' conflict with humanity moves toward its final stage.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E21.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 50000,
+      "endMs": 76000,
+      "description": "Violence and horror"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1290000,
+        "endMs": 1340000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E21-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e22",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 22,
+    "title": "22.QUITE A FEAST",
+    "duration": "23m",
+    "description": "Shinichi prepares for one final confrontation while the fate of both humans and parasites hangs in the balance.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4aYMLNDLjx0Y2Lnl7L5Mgg1iIYE.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E22.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 52000,
+      "endMs": 78000,
+      "description": "Graphic violence"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1310000,
+        "endMs": 1360000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E22-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e23",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 23,
+    "title": "23.LIFE AND OATH",
+    "duration": "23m",
+    "description": "Shinichi faces the consequences of everything that has happened as the final battle draws near.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/4radWJoiPcvwLTd0gvqJ5nWmm5M.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E23.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 48000,
+      "endMs": 73000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1300000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E23-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e24",
+    "season": 1,
+    "movieId": 1,
+    "episodeNumber": 24,
+    "title": "24.PARASYTE",
+    "duration": "23m",
+    "description": "Shinichi reaches the end of his journey and finally comes to terms with humans, parasites, and his own humanity.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E24.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 50000,
+      "endMs": 76000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E24-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
   }
+
 ]
