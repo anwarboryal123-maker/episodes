@@ -233,7 +233,7 @@
     ],
     "subtitleTracks": []
   },
-{
+  {
     "id": "s1e7",
     "season": 1,
     "movieId": 1,
@@ -271,7 +271,7 @@
     ],
     "subtitleTracks": []
   },
- {
+  {
     "id": "s1e8",
     "season": 1,
     "movieId": 1,
@@ -309,7 +309,6 @@
     ],
     "subtitleTracks": []
   },
-```json
   {
     "id": "s1e9",
     "season": 1,
@@ -911,5 +910,4 @@
     ],
     "subtitleTracks": []
   }
-
 ]
