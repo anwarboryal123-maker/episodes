@@ -25,7 +25,13 @@
         "startMs": 1285000,
         "endMs": 1320000,
         "seekToMs": 0
-      }
+      },
+{
+   "type": "SKIP_INTRO",
+    "startMs": 24000,
+    "endMs": 110000,
+    "seekToMs": 110000
+  }
     ],
     "audioTracks": [
       {
